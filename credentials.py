@@ -1,6 +1,5 @@
 #variables needed to 
-print('hello')
-print("world")
-print("keya")
-#lol
-print('ewfbwjbf')
+ACCESS_TOKEN=""
+ACCESS_TOKEN_SECRET=""
+CONSUMER_KEY=""
+CONSUMER_SECRET=""
